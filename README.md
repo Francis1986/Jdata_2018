@@ -8,7 +8,7 @@
   A榜：33/739  
   B榜：17/137
 - 赛提方案说明：
-  [方案说明](https://github.com/Francis1986/Jdata_2018/blob/master/%E8%B5%9B%E6%8F%90%E6%96%B9%E6%A1%88%E8%AF%B4%E6%98%8E.md)
+  [方案说明](https://github.com/Francis1986/Jdata_2018/blob/master/Jdata%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B%E5%88%86%E4%BA%AB.md)
 
 ## **代码说明文档**
 #### 编程环境
